@@ -56,6 +56,12 @@ nav ul {
   align-items: center;
 }
 
+#about,
+#fyp,
+#contact {
+  padding-left: 1em;
+}
+
 nav ul li {
   color: var(--text-color);
   cursor: pointer;
