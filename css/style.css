@@ -20,7 +20,7 @@ body {
 
 h1 {
   color: var(--text-color);
-  font-size: 50px;
+  font-size: 45px;
   letter-spacing: -5px;
   margin-bottom: 20px;
 }
@@ -54,6 +54,12 @@ nav ul {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+#about,
+#fyp,
+#contact {
+  padding-left: 1em;
 }
 
 nav ul li {
