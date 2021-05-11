@@ -29,8 +29,8 @@ fyp.addEventListener("click", () => {
     title: "Final Year Project",
     x: "center",
     y: "center",
-    width: "52%",
-    height: "52%",
+    width: "46%",
+    height: "46%",
     mount: fypContent,
     onfocus: function () {
       this.setBackground("#00aa00");
@@ -47,8 +47,8 @@ contact.addEventListener("click", () => {
     background: "#00aa00",
     x: "center",
     y: "center",
-    width: "52%",
-    height: "52%",
+    width: "42%",
+    height: "42%",
     mount: contactContent,
     onfocus: function () {
       this.setBackground("#00aa00");
