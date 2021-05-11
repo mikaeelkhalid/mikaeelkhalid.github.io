@@ -12,8 +12,8 @@ about.addEventListener("click", () => {
     title: "About Me",
     x: "center",
     y: "center",
-    width: "54%",
-    height: "54%",
+    width: "52%",
+    height: "52%",
     mount: aboutContent,
     onfocus: function () {
       this.setBackground("#00aa00");
@@ -29,8 +29,8 @@ fyp.addEventListener("click", () => {
     title: "Final Year Project",
     x: "center",
     y: "center",
-    width: "54%",
-    height: "54%",
+    width: "52%",
+    height: "52%",
     mount: fypContent,
     onfocus: function () {
       this.setBackground("#00aa00");
@@ -47,8 +47,8 @@ contact.addEventListener("click", () => {
     background: "#00aa00",
     x: "center",
     y: "center",
-    width: "54%",
-    height: "54%",
+    width: "52%",
+    height: "52%",
     mount: contactContent,
     onfocus: function () {
       this.setBackground("#00aa00");
